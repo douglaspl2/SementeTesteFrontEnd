@@ -51,3 +51,7 @@ Link do artigo: https://docs.google.com/document/d/1PJB7I07BwXKNIUr12OOaQZKhkigY
 - Todas as imagens estão disponíveis em "..src/images";
 - Você deve obrigatoriamente utilizar ao menos um recurso do SCSS;
 - Não é necessário, mas caso queira escrever algum JS escreva em "..src/js".
+
+### Validação do teste
+
+O resultado final deverá ser um arquivo zip da pasta "dist" a ser enviado para a pessoa que lhe enviou o desafio.
