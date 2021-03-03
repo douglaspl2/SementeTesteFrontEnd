@@ -4,7 +4,7 @@
 O objetivo desse teste é verificar o mínimo de conhecimento sobre semântica HTML e também recursos comumente utilizados em CSS.
 
 ## O desafio
-O canditado deve montar o HTML e CSS/SASS de um artigo do portal Jornal Semente. Esse distinto jornal pode ser descrito como "o jornal que traz o melhor sobre desenvolvimento humano com linguagem simples, direta e acessível".
+O canditado deve montar o HTML e CSS/SASS de um artigo do portal Jornal Semente a partir de uma UI já pronta. Esse distinto jornal pode ser descrito como "o jornal que traz o melhor sobre desenvolvimento humano com linguagem simples, direta e acessível".
 
 ### O portal
 O portal, iniciado em 2017, é escrito em português brasileiro para ser lido tanto nos computadores quanto no celular. Há pessoas que dizem que o acessam também por tablets.
