@@ -42,6 +42,12 @@ Link do artigo: https://docs.google.com/document/d/1PJB7I07BwXKNIUr12OOaQZKhkigY
 6. Será criada uma pasta com a versão de distribuição do "Teste" chamada "dist";
 6. Uma janela do navegador será aberta com "Hello, World!" escrito.
 
+
+### A User Interface a ser transposta para HTML/CSS
+As UIs se encontram na pasta ../src/ui do projeto.
+Há 2 formatos em relação a dispositivos: Desktop e Mobile.
+
+
 ### Restrições e informações
 - Tipografia: Poppins e Merryweather;
 - Cabeçalho deve ocupar toda a largura da tela, mas o conteúdo dentro deve ter no máximo 1000px de largura;
