@@ -2,10 +2,9 @@
 
 ## Introdução
 O objetivo desse teste é verificar o mínimo de conhecimento sobre semântica HTML e também recursos comumente utilizados em CSS.
-Tempo de execução será um dos fatores a serem considerados, porém é importante que o teste seja feito com primor, mesmo que entregue em cima do laço.
 
 ## O desafio
-O canditado deve montar o HTML e CSS de um artigo do portal Jornal Semente. Esse distinto jornal pode ser descrito como "o jornal que traz o melhor sobre desenvolvimento humano com linguagem simples, direta e acessível".
+O canditado deve montar o HTML e CSS/SASS de um artigo do portal Jornal Semente. Esse distinto jornal pode ser descrito como "o jornal que traz o melhor sobre desenvolvimento humano com linguagem simples, direta e acessível".
 
 ### O portal
 O portal, iniciado em 2017, é escrito em português brasileiro para ser lido tanto nos computadores quanto no celular. Há pessoas que dizem que o acessam também por tablets.
@@ -52,12 +51,19 @@ Link do artigo: https://docs.google.com/document/d/1PJB7I07BwXKNIUr12OOaQZKhkigY
 - Você deve obrigatoriamente utilizar ao menos um recurso do SCSS;
 - Não é necessário, mas caso queira escrever algum JS escreva em "..src/js".
 
+### O que será avaliado?
+
+- Semântica do HTML (Tags semanticamente corretas para cada caso)
+- Organização e escrita do SASS
+- Utilização do CSS
+- Fidedignidade em relação à UI proposta
+- Responsividade
+
 
 ### Como entregar?
 
 Você deverá criar um fork do projeto no Github e depois de finalizar o teste, pode nos enviar o endereço do fork ou enviá-lo em arquivo zip para vagas@programasemente.com.br com o assunto "Teste para vaga de Front - Seu nome" (onde "seu nome" deve ser substituído pelo seu nome).
 
+### Prazo
 
-
-### Validação do teste
-O resultado final deverá ser um arquivo zip da pasta "dist" a ser enviado para a pessoa que lhe enviou o desafio.
+Até 3 dias úteis após a primeira conversa com o Gerente de TI
