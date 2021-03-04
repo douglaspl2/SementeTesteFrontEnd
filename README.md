@@ -69,7 +69,7 @@ VocÊ pode também selecionar um elemento e passar o mouse sobre outros para ver
 
 ### Como entregar?
 
-Você deverá criar um fork do projeto no Github e depois de finalizar o teste, pode nos enviar o endereço do fork ou enviá-lo em arquivo zip para vagas@programasemente.com.br com o assunto "Teste para vaga de Front - Seu nome" (onde "seu nome" deve ser substituído pelo seu nome).
+Você deverá criar um fork do projeto no Github e depois de finalizar o teste, pode nos enviar o endereço do fork ou enviá-lo em arquivo zip (Sem a pasta "node_modules"!!) para vagas@programasemente.com.br com o assunto "Teste para vaga de Front - Seu nome" (onde "seu nome" deve ser substituído pelo seu nome).
 
 ### Prazo
 
