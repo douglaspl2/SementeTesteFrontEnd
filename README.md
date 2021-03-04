@@ -40,12 +40,13 @@ Link do artigo: https://docs.google.com/document/d/1PJB7I07BwXKNIUr12OOaQZKhkigY
 4. Digite **npm install**, para que as dependencias sejam instaladas;
 5. Digite **gulp**;
 6. Será criada uma pasta com a versão de distribuição do "Teste" chamada "dist";
-6. Uma janela do navegador será aberta com "Hello, World!" escrito.
+7. Uma janela do navegador será aberta com "Hello, World!" escrito.
 
 
 ### A User Interface a ser transposta para HTML/CSS
-As UIs se encontram na pasta ../src/ui do projeto.
-Há 2 formatos em relação a dispositivos: Desktop e Mobile.
+A UI se encontra neste link: https://xd.adobe.com/view/d1e77028-23e2-4795-935a-63444478f94f-84b4
+Você pode clicar nos elementos para ver suas propriedades. Caso seja uma imagem, haverá a opção de baixar.
+VocÊ pode também selecionar um elemento e passar o mouse sobre outros para ver posicionamento e distância entre eles.
 
 
 ### Restrições e informações
@@ -53,7 +54,7 @@ Há 2 formatos em relação a dispositivos: Desktop e Mobile.
 - Cabeçalho deve ocupar toda a largura da tela, mas o conteúdo dentro deve ter no máximo 1000px de largura;
 - Conteúdo deve ter no máximo 680px de largura;
 - Uso livre de grids pré-montados;
-- Todas as imagens estão disponíveis em "..src/images";
+- Todas as imagens deverão ser colocadas em "..src/images";
 - Você deve obrigatoriamente utilizar ao menos um recurso do SCSS;
 - Não é necessário, mas caso queira escrever algum JS escreva em "..src/js".
 
