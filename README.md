@@ -58,7 +58,7 @@ Importante: Favor não utilizar o recurso de comentários que o XD disponibiliza
 - Uso livre de grids pré-montados;
 - Todas as imagens deverão ser colocadas em "..src/images";
 - Você deve obrigatoriamente utilizar ao menos um recurso do SCSS;
-- Não é necessário, mas caso queira escrever algum JS escreva em "..src/js".
+- Não é obrigatório, mas caso queira escrever algum JS escreva em "..src/js".
 
 
 ### O que será avaliado?
