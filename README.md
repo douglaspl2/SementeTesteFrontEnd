@@ -46,7 +46,9 @@ Link do artigo: https://docs.google.com/document/d/1PJB7I07BwXKNIUr12OOaQZKhkigY
 ### A User Interface a ser transposta para HTML/CSS
 A UI se encontra neste link: https://xd.adobe.com/view/d1e77028-23e2-4795-935a-63444478f94f-84b4
 Você pode clicar nos elementos para ver suas propriedades. Caso seja uma imagem, haverá a opção de baixar.
-VocÊ pode também selecionar um elemento e passar o mouse sobre outros para ver posicionamento e distância entre eles.
+Você pode também selecionar um elemento e passar o mouse sobre outros para ver posicionamento e distância entre eles.
+
+Importante: Favor não utilizar o recurso de comentários que o XD disponibiliza para enviar mensagens a nós.
 
 
 ### Restrições e informações
@@ -57,6 +59,7 @@ VocÊ pode também selecionar um elemento e passar o mouse sobre outros para ver
 - Todas as imagens deverão ser colocadas em "..src/images";
 - Você deve obrigatoriamente utilizar ao menos um recurso do SCSS;
 - Não é necessário, mas caso queira escrever algum JS escreva em "..src/js".
+
 
 ### O que será avaliado?
 
